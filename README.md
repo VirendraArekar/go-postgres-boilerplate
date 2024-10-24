@@ -56,12 +56,12 @@ This project demonstrates a web application built using GoLang, the Model-View-C
 
 ## Endpoints
 
-### Example CRUD routes:
-- `GET /items`: Fetch all items.
-- `POST /items`: Create a new item.
-- `GET /items/{id}`: Get a single item by ID.
-- `PUT /items/{id}`: Update an existing item by ID.
-- `DELETE /items/{id}`: Delete an item by ID.
+### Example users CRUD routes:
+- `GET /users`: Fetch all users.
+- `POST /users`: Create a new user.
+- `GET /users/{id}`: Get a single user by ID.
+- `PUT /users/{id}`: Update an existing user by ID.
+- `DELETE /users/{id}`: Delete an user by ID.
 
 ## Docker Support
 If you want to run the application in a Docker container:
