@@ -83,4 +83,4 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 
 ## Author
 **Your Name**  
-Feel free to reach out at [your.email@example.com](mailto:virendra.arekar@gmail.com)
+Feel free to reach out at [virendra.arekar@gmail.com](mailto:virendra.arekar@gmail.com)
