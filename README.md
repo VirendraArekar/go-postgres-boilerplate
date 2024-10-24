@@ -16,10 +16,6 @@ This project demonstrates a web application built using GoLang, the Model-View-C
 - PostgreSQL 10+ installed and running.
 - Docker (optional, for containerized deployment).
 
-## Project Structure
-├── config # Configuration files (DB credentials, etc.) ├── controllers # Handles HTTP requests and responses ├── models # Database models and interactions ├── routes # Routing logic for the application ├── views # HTML templates (if applicable) ├── database # Database migration and seeding ├── utils # Utility functions and helpers ├── main.go # Entry point of the application └── README.md # Project documentation
-
-
 ## Installation
 
 1. **Clone the repository**:
