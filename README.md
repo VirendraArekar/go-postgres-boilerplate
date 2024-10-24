@@ -24,8 +24,8 @@ This project demonstrates a web application built using GoLang, the Model-View-C
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/yourproject.git
-    cd yourproject
+    git clone https://github.com/VirendraArekar/go-postgres-boilerplate.git
+    cd go-postgres-boilerplate
     ```
 
 2. **Set up environment variables**:
